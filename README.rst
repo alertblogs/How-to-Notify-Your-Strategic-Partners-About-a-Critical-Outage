@@ -1,40 +1,43 @@
-AlertOps Expert Guidance
+How to Notify Your Strategic Partners About a Critical Outage
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+What is the best way to notify strategic partners about a critical outage? Alert notification system workflows are key.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Perhaps a good way to look at alert monitoring system workflows is like escalations on steroids. To understand why, let’s take a look at workflows and their importance to keep strategic partners up to date during a critical outage.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+What Is an Alert Notification System Workflow?
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Incident management often involves several workflows for a single incident. Workflows are usually triggered by an event, such as a change in status. Or, workflows are time-based, and they are triggered by the passage of a specific amount of time (such as before or after conditions).
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+An alert tracking system that includes a workflow engine allows an enterprise to notify its strategic partners when a critical outage occurs. It also features out-of-the-box workflows that enable an enterprise to notify strategic partners hours before a service-level agreement (SLA) is broken.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Additionally, an alert monitoring system makes it simple to send a JIRA notification if a critical outage occurs. This notification can include details like when an incident is created, updated or resolved.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+But why should an enterprise stop sending notifications to strategic partners when a critical outage occurs? Why not send notifications to all affected enterprise systems, too? An alert tracking system enables an enterprise to do just that – and much more.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Key Benefits of an Alert Tracking System
 
-1 Red Canary 2021 Threat Detection Report
+With an alert monitoring system, enterprise users can open an issue in JIRA. Next, they can assign the incident to key stakeholders and update the issue status in JIRA at any time. When the incident is resolved, enterprise users can update the status accordingly in JIRA.
+
+An alert notification system also can be used in conjunction with other systems equipped with a Rest API. Simply configure an outbound integration to send messages to an external system. Then, plug these calls into workflows, and enterprise users can maintain consistent communication with key stakeholders at all times.
+
+Of course, alert notification system workflows are more than just escalations. These workflows can be attached to message rules to build powerful events or time-based flows. They allow an enterprise to notify people, systems and strategic partners about any critical outage, at any time.
+
+Incorporate Alert Notification System Workflows into Your Incident Management Processes
+
+Service management SLA-based escalations and workflows can make an alert monitoring system an integral part of an enterprise incident management strategy. They allow an enterprise to notify strategic partners about a critical outage or other incidents.
+
+Plus, workflows can be used to automate incident communications processes and ensure the right message goes out every time, on time. Enterprise users can even send regular status updates as well as closure updates to provide critical outage updates to strategic partners.
+
+Workflows can be used to help manage enterprise service levels, too. Enterprise users can send reminders to incident owners at regular intervals or send reminders based on an SLA deadline. They can trigger notifications to people and systems. Furthermore, enterprise users can trigger change control processes and other workflows.
+
+Lastly, an alert monitoring system allows enterprise users to define global SLAs based on priority or severity level. Enterprise users can trigger time-based escalations and notifications based on SLAs as well.
+
+Workflows ultimately may make or break an enterprise incident response strategy. By using an alert tracking system with best-in-class workflow capabilities, an enterprise can keep its strategic partners informed until a critical outage or any other incident is fully resolved.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/do-your-strategic-partners-know-when-you-have-a-critical-outage/
 
 Read more:
 ====
